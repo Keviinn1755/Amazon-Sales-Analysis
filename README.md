@@ -28,4 +28,4 @@ The objective of this project is to analyze Amazon sales data and track key busi
 - Excel  
 
 ## 📸 Dashboard Preview
-![Dashboard](Images/Dashboard-Preview.png)
+![Dashboard](Images/Dashboard-Preview.png.png)
